@@ -3,8 +3,7 @@ adserver
 
 Create a folder
 
-```$ mkdir workspace-adserver```
-```$ cd workspace-adserver```
+```$ mkdir workspace-adserve/n $ cd workspace-adserver```
 
 Activate virtualenvironment 
 
