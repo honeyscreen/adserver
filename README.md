@@ -1,4 +1,4 @@
 # adserver
 adserver
 
-```$mkdir adserver```
+```$ mkdir adserver```
