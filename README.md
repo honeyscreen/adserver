@@ -3,11 +3,14 @@ adserver
 
 Create a folder
 
-```$ mkdir workspace-adserve \n $ cd workspace-adserver```
+```$ mkdir workspace-adserve ```
+
+```$ cd workspace-adserver```
 
 Activate virtualenvironment 
 
 ```$ virtualenv env```
+
 ```$ source env/bin/activate```
 
 Install django and start a project named 'adtech'
