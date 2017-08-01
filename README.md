@@ -1,7 +1,7 @@
 # adserver
 adserver
 
-Create a folder names 'adserver'
+Create a folder named 'adserver'
 
 ```
 $ mkdir workspace-adserver
