@@ -19,10 +19,19 @@ Install django and start a project named 'adtech'
 
 ```
 $ pip install django
+$ pip install django-extension
 $ django-admin startproject adtech
 $ cd adtech
 ```
 
+<2> 
+
+```
+$ python manage.py migrate
+$ python manage.py makemigrations adnetwork
+$ python manage.py migrate
+$ python manage.py createsuperuser
+```
 Run the server 
 
 ``` 
@@ -32,7 +41,5 @@ $ python manage.py runserver
 Check the server that we created with the URL below 
 
 http://localhost:8000/admin/
-
-
 
 
