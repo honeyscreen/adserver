@@ -24,7 +24,6 @@ $ django-admin startproject adtech
 $ cd adtech
 ```
 
-<2> 
 Migrate DB configure & Create superuser
 ```
 $ python manage.py migrate
