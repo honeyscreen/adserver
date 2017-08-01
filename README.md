@@ -25,7 +25,7 @@ $ cd adtech
 ```
 
 <2> 
-Migrate DB configure 
+Migrate DB configure & Create superuser
 ```
 $ python manage.py migrate
 $ python manage.py makemigrations adnetwork
