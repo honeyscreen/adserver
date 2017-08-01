@@ -25,7 +25,7 @@ $ cd adtech
 ```
 
 <2> 
-
+Migrate DB configure 
 ```
 $ python manage.py migrate
 $ python manage.py makemigrations adnetwork
